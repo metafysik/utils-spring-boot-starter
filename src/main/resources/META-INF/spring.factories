@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  me.metafysik.utils.logs.intelligent.IntelligentLogAutoConfigure,\
+  me.metafysik.utils.enviroment.ProjectEnvironmentAutoConfigure
